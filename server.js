@@ -18,7 +18,7 @@ app.use(express.static(path.join(__dirname, './dist')));
 
 app.use(bodyParser.json());
 
-app.use(cors()); 
+app.use(cors());
 
 app.get('/', function(req, res) {
 
