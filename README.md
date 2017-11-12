@@ -8,7 +8,8 @@ Then click on "Clone or download" and copy the repository link.
 
 Open your terminal window on your computer and navigate to an area where you would like this project saved.
 
-Type ```git clone [the repository url you copied]```. It should look something like this, ```git clone https://github.com/ericdfanning/ReactNodeWebpackBoilerplate.git```. Except instead of 'ericdfanning', it will show the name of your github profile.
+Type ```git clone [the repository url you copied]```. 
+It should look something like this, ```git clone https://github.com/ericdfanning/ReactNodeWebpackBoilerplate.git```. Except instead of 'ericdfanning', it will show the name of your github profile.
 
 Once it is done cloning, type ```cd ReactNodeWebpackBoilerplate``` to go into the project folder.
 
