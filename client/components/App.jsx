@@ -41,7 +41,7 @@ class App extends React.Component {
 
 	render() {
 		return (
-			<div>
+			<div style={{fontSize: "30px"}}>
 			  Hello World!
 			  Thanks for cloning the React boilerplate with Express, Node, and Webpack. 
 			</div>

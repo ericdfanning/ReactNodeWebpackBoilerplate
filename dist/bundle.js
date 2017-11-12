@@ -2395,36 +2395,36 @@ var App = function (_React$Component) {
 	// *** React's lifecycle methods ***
 
 	_createClass(App, [{
-		key: 'componentWillMount',
+		key: "componentWillMount",
 		value: function componentWillMount() {}
 	}, {
-		key: 'componentDidMount',
+		key: "componentDidMount",
 		value: function componentDidMount() {}
 	}, {
-		key: 'componentWillReceiveProps',
+		key: "componentWillReceiveProps",
 		value: function componentWillReceiveProps(nextProps) {}
 	}, {
-		key: 'shouldComponentUpdate',
+		key: "shouldComponentUpdate",
 		value: function shouldComponentUpdate(nextProps, nextState) {}
 	}, {
-		key: 'componentWillUpdate',
+		key: "componentWillUpdate",
 		value: function componentWillUpdate() {}
 	}, {
-		key: 'componentDidUpdate',
+		key: "componentDidUpdate",
 		value: function componentDidUpdate() {}
 	}, {
-		key: 'componentWillUnmount',
+		key: "componentWillUnmount",
 		value: function componentWillUnmount() {}
 
 		// *** End of lifecycle methods ***
 
 	}, {
-		key: 'render',
+		key: "render",
 		value: function render() {
 			return _react2.default.createElement(
-				'div',
-				null,
-				'Hello World! Thanks for cloning the React boilerplate with Express, Node, and Webpack.'
+				"div",
+				{ style: { fontSize: "30px" } },
+				"Hello World! Thanks for cloning the React boilerplate with Express, Node, and Webpack."
 			);
 		}
 	}]);
