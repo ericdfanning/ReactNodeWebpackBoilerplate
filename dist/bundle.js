@@ -2423,8 +2423,8 @@ var App = function (_React$Component) {
 		value: function render() {
 			return _react2.default.createElement(
 				"div",
-				{ style: { fontSize: "30px" } },
-				"Hello World! Thanks for cloning the React boilerplate with Express, Node, and Webpack."
+				{ style: { fontSize: "60px" } },
+				"Colin sucks the DDDDDD!!!!!!!!!!!!!!!!"
 			);
 		}
 	}]);

@@ -19,4 +19,6 @@ Then to start the server on your local machine, type ```npm start``` into your t
 
 Open another tab in your terminal (make sure you are still in this project folder) and type ```webpack --watch```. This starts webpack which watches for any changes to your project and re-bundles the code that your web browser uses if it detects a change.
 
-Now in your web browser, open a new window or tab and navigate to [localhost:8000](localhost:8000) to see your boilerplate React displayed!
+Now in your web browser, open a new window or tab and navigate to [localhost:8000] to see your boilerplate React displayed!
+
+[localhost:8000]: http://127.0.0.1:8000
